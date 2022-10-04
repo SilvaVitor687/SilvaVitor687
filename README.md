@@ -18,7 +18,9 @@
   <img align="center" alt="Vitor-Type" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Vitor-SQL" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />          
   <img align="center" alt="Vitor-PHP" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
-  <img align="center" alt="Vitor-Boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />     
+  <img align="center" alt="Vitor-Boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
+  <img align="center" alt="Vitor-Bulma" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+              
  
 </div>
   
