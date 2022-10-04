@@ -8,16 +8,16 @@
   <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=SilvaVitor687&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
-<div style="display: inline_block" align="left"><br>
-  <img alt="Vitor-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="Vitor-React" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Vitor-Node" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />          
-  <img alt="Vitor-HTML" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"> 
-  <img alt="Vitor-CSS" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img alt="Vitor-SASS" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />            
-  <img alt="Vitor-Type" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Vitor-SQL" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />          
-  <imgalt="Vitor-PHP" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<div style="display: inline_block" ><br>
+  <img align="left" alt="Vitor-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="left" alt="Vitor-React" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="left" alt="Vitor-Node" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />          
+  <img align="left" alt="Vitor-HTML" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"> 
+  <img align="left" alt="Vitor-CSS" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="left" alt="Vitor-SASS" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />            
+  <img align="left" alt="Vitor-Type" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="left" alt="Vitor-SQL" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />          
+  <img align="left" alt="Vitor-PHP" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   
   <img align="rigth" alt="Vitor-Silva" height="180em" style="border-radius:150px;" src="https://lh3.googleusercontent.com/a-/ACNPEu-XFQKX_9GqLCkTgIDcc0zTLaZpPbrw8F1OlIDY_w=s360-p-rw-no">
 </div>
