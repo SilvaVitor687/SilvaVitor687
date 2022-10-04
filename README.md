@@ -4,8 +4,8 @@
 
 <div align="left">
   <a href="https://github.com/SilvaVitor687">
-  <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaVitor687&layout=compact&langs_count=7&theme=dark"/>
-  <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=SilvaVitor687&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaVitor687&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=SilvaVitor687&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
 <div style="display: inline_block" ><br>
@@ -17,7 +17,9 @@
   <img align="left" alt="Vitor-SASS" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />            
   <img align="left" alt="Vitor-Type" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="left" alt="Vitor-SQL" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />          
-  <img align="left" alt="Vitor-PHP" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="left" alt="Vitor-PHP" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />  
+  <img align="left" alt="Vitor-Boot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+          
   
   <img align="rigth" alt="Vitor-Silva" height="180em" style="border-radius:150px;" src="https://lh3.googleusercontent.com/a-/ACNPEu-XFQKX_9GqLCkTgIDcc0zTLaZpPbrw8F1OlIDY_w=s360-p-rw-no">
 </div>
