@@ -2,7 +2,7 @@
 ## Olá, Sou Vitor Silva 
 
 
-<div align="center">
+<div align="left">
   <img align="left" alt="Vitor-Silva" height="180em" style="border-radius:150px;" src="https://lh3.googleusercontent.com/a-/ACNPEu-XFQKX_9GqLCkTgIDcc0zTLaZpPbrw8F1OlIDY_w=s360-p-rw-no">
   <a href="https://github.com/SilvaVitor687">
   <img height="100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaVitor687&layout=compact&langs_count=7&theme=dark"/>
