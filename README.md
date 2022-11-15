@@ -28,7 +28,7 @@
 
 <div>
    
- <a target="_blank" href="https://discord.com/channels/@me"><img align="left" src="https://img.shields.io/badge/-DISCORD-orange"></a>
+ <a href="https://discord.com/channels/@me"><img align="left" src="https://img.shields.io/badge/-DISCORD-orange" target="_blank"></a>
   <a href="https://www.developeroom.com.br" target="_blank"><img align="left" src="https://img.shields.io/badge/-PORTF%C3%93LIO-blue"></a> 
   <a href = "mailto:vitorsilva@developeroom.com.br" target="_blank"><img align="left"  src="https://img.shields.io/badge/-E--MAIL-blueviolet"></a>
   <a href="https://www.linkedin.com/in/vitor-silva-5a7544175/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LIKEDIN-red"></a> 
